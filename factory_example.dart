@@ -2,7 +2,7 @@
 /// 
 /// The Factory pattern provides an interface for creating objects
 /// without specifying their concrete classes.
-
+/// Parametrized Factory method pattern (Simple Factory Method) and the classic Factory method (GoF)
 abstract class Vehicle {
   void drive();
 }
